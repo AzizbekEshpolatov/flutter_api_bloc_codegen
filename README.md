@@ -26,7 +26,7 @@ ta'minlaydi. Shunday qilib, qo'lda kod yozish jarayoni kamayadi va ishlab chiqis
      build_runner: ^x.x.x
      retrofit_generator: ^x.x.x
      json_serializable: ^x.x.x
-
+   ```
 
 ## en
 
@@ -66,3 +66,4 @@ This project aims to streamline development by automatically generating API inte
      build_runner: ^x.x.x
      retrofit_generator: ^x.x.x
      json_serializable: ^x.x.x
+   ```
