@@ -53,7 +53,7 @@ This project aims to streamline development by automatically generating API inte
 - Pre-configured dependencies for seamless integration in Flutter projects
 
 ### How to Use
-1. **Add Dependencies:**  
+  **Add Dependencies:**  
    Include the following in your `pubspec.yaml`:
    ```yaml
    dependencies:
